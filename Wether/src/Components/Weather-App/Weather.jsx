@@ -140,6 +140,10 @@ function Weather() {
             </div>
           </div>
         </div>
+
+        <div className="footer">
+          <p>Developed By: Muse Feta</p>
+        </div>
       </div>
     </div>
   );
